@@ -1,6 +1,5 @@
 # marry-project-002
 # xinz
-# Trigger类型
-#automatic触发
-#天赋
+#381 工作类型展示
+#dasdasd12
 
